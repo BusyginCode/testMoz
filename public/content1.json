@@ -1,0 +1,77 @@
+{
+    "products": [
+        {
+            "name": "product1",
+            "price": 10.05,
+            "deals": false,
+            "count": 5,
+			"img": "./img/2.jpg",
+            "width": 800,
+            "height":600
+        },
+        {
+            "name": "product2",
+            "price": 2.05,
+            "deals": true,
+            "count": 1,
+            "img": "./img/s1.jpg",
+            "width": 298,
+            "height":300
+        },
+        {
+            "name": "product3",
+            "price": 100.05,
+            "deals": true,
+            "count": 3,
+            "img": "./img/s2.jpg",
+            "width": 240,
+            "height":210
+        },
+        {
+            "name": "product4",
+            "price": 9.55,
+            "deals": true,
+            "count": 33,
+            "img": "./img/s3.jpg",
+            "width": 338,
+            "height":348
+        },
+        {
+            "name": "product7",
+            "price": 2339.55,
+            "deals": false,
+            "count": 32,
+            "img": "./img/s4.jpg",
+            "width": 192,
+            "height":164
+        },
+        {
+            "name": "product4",
+            "price": 9.55,
+            "deals": true,
+            "count": 33,
+            "img": "./img/s3.jpg",
+            "width": 338,
+            "height":348
+        },
+        {
+            "name": "product4",
+            "price": 9.55,
+            "deals": true,
+            "count": 33,
+            "img": "./img/s3.jpg",
+            "width": 338,
+            "height":348
+        },
+        {
+            "name": "product4",
+            "price": 9.55,
+            "deals": true,
+            "count": 33,
+            "img": "./img/s3.jpg",
+            "width": 338,
+            "height":348
+        }
+    ]
+}
+

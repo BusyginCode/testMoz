@@ -1,0 +1,276 @@
+ .invalid {
+ 	border:1px solid red;
+ }
+ .valid {
+ 	border:1px solid green;
+ }
+ input:focus {
+ 	outline:none;
+ }
+ .show {
+ 	display:inline;
+ }
+ .hint {
+ 	display:none;
+ }
+ input {
+  width: 46.7%;
+  height: 3vw;
+  border-radius: 0.5vw;
+ }
+ .filtr_but {
+  width: 15%;
+  margin-left:10vw;
+  height: 2vw;
+  background: white;
+  border: 1px solid gray;
+  text-align: center;
+  color: gray;
+  padding: 0.2%;
+  float:left;
+  vertical-align: middle;
+  display: table-cell;
+  border-radius: 0.5vw;
+  cursor:pointer;
+ }
+ .filtr_but:hover {
+  text-decoration: none;
+  color:black;
+ }
+ #filtr_box {
+  width:19%;
+  height:30%;
+  display:none;
+ }
+ #input_box {
+  width: 15vw;
+  float:left;
+  display:none;
+  margin-left:10vw;
+ }
+ .container {
+  width:80%;
+  margin: 5vw auto;
+ }
+ .f_b_div {
+  width:100%;
+  margin-top:5vw;
+ }
+ label[for='min'] {
+  clear:both;
+ }
+ .secLab {
+  margin-top:1vw;
+ }
+ #s_input {
+  width:100%;
+ }
+ .content_normal{
+  width:60%;
+  margin:0 auto;
+ }
+ hr {
+  clear:both;
+ }
+ .content_f {
+   
+   float: left;
+   margin-left: 3vw;
+ }
+ input[placeholder] {
+   padding-left:0.5vw;
+ }
+ .element {
+   width:17vw;
+   box-shadow: 0 0 0 1px #E1E5E9;
+   float:left;
+   margin-left: 2vw;
+   margin-top: 1vw;
+ }
+ .elem_name {
+   width:16vw;
+   text-align:center;
+ }
+ .elem_img {
+   max-width:15vw;
+   max-height: 10vw;
+   margin-bottom:1vw;
+ }
+ .elem_price {
+   width:16vw;
+   text-align:center;
+ }
+ .img_div {
+   text-align:center;
+ }
+ .element a {
+   text-decoration:none;
+   color:black;
+ }
+ .element a::hover {
+   text-decoration:none;
+   color:black;
+ }
+ .el_count {
+   text-align: center;
+ }
+ .el_discont {
+   text-align: center;
+ } 
+ .element_mozaik {
+   max-width:50%;;
+   float:left;
+   margin-left: 1vw;
+   margin-top: 1vw;
+ }
+ .element_mozaik:hover .about_m {
+  display:block;
+ }
+ .elem_name_m {
+   text-align:center;
+ }
+ .elem_img_m {
+   height: 20vw;
+   margin-bottom:1vw;
+ }
+ .elem_price_m {
+   text-align:center;
+ }
+ .img_div_m {
+   text-align:center;
+ }
+ .element_mozaik a {
+   text-decoration:none;
+   color:black;
+ }
+ .element_mozaik a::hover {
+   text-decoration:none;
+   color:black;
+ }
+ .el_count_m {
+   text-align: center;
+ }
+ .el_discont_m {
+   text-align: center;
+ } 
+ .about_m {
+  z-index: 5;
+  position: relative;
+  bottom: 8vw;
+  display: none;
+  height: 0;
+ }
+
+
+
+
+
+
+
+ .deal_input {
+  width:2vw;
+ }
+ .show_cont {
+  width:100%;
+  text-align: center;
+  clear:both;
+  padding-top:3vw;
+  padding-bottom:3vw;
+ }
+ #show_but {
+  padding:1vw;
+  border-radius:0.5vw;
+  box-shadow: 0 0 0 1px #E1E5E9;
+  text-decoration:none;
+  cursor:pointer;
+  color:black;
+  
+ }
+ #show_but:hover {
+  text-decoration:none;
+ }
+ input[type='checkbox'] {
+  width:2vw;
+ }
+ #hint {
+  text-align:center;
+ }
+ .marginButton {
+  margin-left:20vw;
+ }
+ .change_show_style {
+  margin-left:50%;
+ }
+ .change_show {
+  border: 1px solid gray;
+  border-radius: 0.3vw;
+  padding: 0.5%;
+  margin: 0.5vw;
+  text-decoration:none;
+  color:gray;
+  cursor:pointer;
+ }
+ .change_show:hover {
+  color:black;
+  text-decoration:none;
+  cursor:pointer;
+ }
+
+
+
+
+
+
+
+
+ /*____________________________________________________________*/
+
+ #content_m div {
+  position:relative;
+  height:20vw;
+  overflow:hidden;
+  float:left;
+  border-top:0.5vw solid white;
+  border-left:1vw solid white;
+ }
+
+ #content_m div:first-child {
+  border-left:0;
+ }
+
+ #content_m .first {
+  border-left:0;
+ }
+ 
+ #content_m {
+  margin:0 auto;
+ }
+
+ html body #content_m .d_show {
+  height:6vw;
+  position:absolute;
+  top:14vw;
+  opacity: 0.5;
+  float:none;
+  border: none;
+  background-color: gray;
+  display:none;
+  font-size:2vw;
+  text-align:center;
+ }
+
+ #content_m div:hover .d_show {
+  display:block;
+ }
+
+ /*
+{
+            "name": "product9",
+            "price": 0.55,
+            "deals": false,
+            "count": 2,
+            "img": "./img/s5.jpg",
+            "width": 1024,
+            "height":768
+        },
+*/

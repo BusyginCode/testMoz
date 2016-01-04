@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "name": "product1",
+            "price": 10.05,
+            "deals": false,
+            "count": 5,
+			"img": "./img/2.jpg"
+        },
+        {
+            "name": "product2",
+            "price": 2.05,
+            "deals": true,
+            "count": 1,
+            "img": "./img/s1.jpg"
+        },
+        {
+            "name": "product3",
+            "price": 100.05,
+            "deals": true,
+            "count": 3,
+            "img": "./img/s2.jpg"
+        },
+        {
+            "name": "product4",
+            "price": 9.55,
+            "deals": true,
+            "count": 33,
+            "img": "./img/s3.jpg"
+        },
+        {
+            "name": "product7",
+            "price": 2339.55,
+            "deals": false,
+            "count": 32,
+            "img": "./img/s4.jpg"
+        },
+        {
+            "name": "product9",
+            "price": 0.55,
+            "deals": false,
+            "count": 2,
+            "img": "./img/s5.jpg"
+        },
+        {
+            "name": "product11",
+            "price": 310,
+            "deals": false,
+            "count": 5,
+            "img": "./img/s6.jpg"
+        },
+        {
+            "name": "product22",
+            "price": 22,
+            "deals": false,
+            "count": 1,
+			"img": "./img/s7.jpg"
+        },
+        {
+            "name": "product33",
+            "price": 40.05,
+            "deals": true,
+            "count": 3,
+			"img": "./img/s8.jpg"
+        },
+        {
+            "name": "product44",
+            "price": 9,
+            "deals": false,
+            "count": 22,
+			"img": "./img/s9.jpg"
+        },
+        {
+            "name": "product77",
+            "price": 239.55,
+            "deals": true,
+            "count": 3,
+			"img": "./img/s10.jpg"
+        },
+        {
+            "name": "product99",
+            "price": 4.55,
+            "deals": false,
+            "count": 3,
+			"img": "./img/s11.jpg"
+        }
+    ]
+}
